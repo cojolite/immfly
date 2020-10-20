@@ -1,0 +1,10 @@
+com/immfly/ImmflyApplication.class
+com/immfly/model/Flight.class
+com/immfly/config/Config.class
+com/immfly/config/SecurityConfig.class
+com/immfly/config/FlightRestTemplateClient.class
+com/immfly/model/Flight$FlightBuilder.class
+com/immfly/controllers/FlightController.class
+com/immfly/config/RedisConfig.class
+com/immfly/model/Location$LocationBuilder.class
+com/immfly/model/Location.class
